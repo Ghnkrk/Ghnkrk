@@ -34,7 +34,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [AutoAgenticML](https://github.com/Ghnkrk/AutoAgenticML) | Autonomous agentic ML pipeline | Python |
-| [NABH Gap Analysis Engine](https://github.com/Ghnkrk/mvpv2-NLI-semantic) | NLI & semantic similarity | Python |
+| [NABH Gap Analysis Engine](https://github.com/Ghnkrk/mvpv2-NLI-semantic) | NAHB Gap analysis engine using NLI & semantic similarity | Python |
 | [TINYLLM](https://github.com/Ghnkrk/TINYLLM) | LLM coded and trained from scratch | Jupyter |
 | [ReAct-Agent](https://github.com/Ghnkrk/ReAct-Agent) | ReAct reasoning + acting agent without frameworks | Python |
 | [LocalRAG](https://github.com/Ghnkrk/LocalRAG) | Local retrieval-augmented generation | Python |
