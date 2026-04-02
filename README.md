@@ -1,0 +1,73 @@
+<h1 align="center">Hi, I'm Guhankarthik 👋</h1>
+
+<p align="center">
+  <em>Engineering Student · AI & ML Enthusiast · Builder of Intelligent Systems</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/guhankarthik-a-g-86379a2a1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/guhankarthik25">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:guhan.karthik25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 Engineering student based in **Coimbatore, India**
+- 🤖 Passionate about **AI, Machine Learning, and LLMs**
+- 🔭 Currently exploring **Agentic AI systems and on-device ML**
+- 🌱 Learning more about **RAG pipelines, LLM fine-tuning, and inference optimization**
+- 💬 Ask me about anything AI/ML — always happy to discuss ideas
+- 📫 Reach me at: **guhan.karthik25@gmail.com** 
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [AutoAgenticML](https://github.com/Ghnkrk/AutoAgenticML) | Autonomous agentic ML pipeline | Python |
+| [NABH Gap Analysis Engine](https://github.com/Ghnkrk/mvpv2-NLI-semantic) | NLI & semantic similarity | Python |
+| [TINYLLM](https://github.com/Ghnkrk/TINYLLM) | LLM coded and trained from scratch | Jupyter |
+| [ReAct-Agent](https://github.com/Ghnkrk/ReAct-Agent) | ReAct reasoning + acting agent without frameworks | Python |
+| [LocalRAG](https://github.com/Ghnkrk/LocalRAG) | Local retrieval-augmented generation | Python |
+| [mobile-inference](https://github.com/Ghnkrk/mobile-inference) | ML inference on mobile devices and their benchmark| Jupyter |
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghnkrk&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghnkrk&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ghnkrk&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
