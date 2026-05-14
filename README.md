@@ -34,6 +34,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [AutoAgenticML](https://github.com/Ghnkrk/AutoAgenticML) | Autonomous multi-agentic ML pipeline | Python |
+| [Qsystem](https://github.com/Ghnkrk/Qsystem) | Leakage-Aware Time-Series Forecasting & Backtesting Pipeline | Python |
 | [NABH Gap Analysis Engine](https://github.com/Ghnkrk/mvpv2-NLI-semantic) | NAHB Gap analysis engine using NLI & semantic similarity | Python |
 | [TINYLLM](https://github.com/Ghnkrk/TINYLLM) | LLM coded and trained from scratch | Jupyter |
 | [ReAct-Agent](https://github.com/Ghnkrk/ReAct-Agent) | ReAct reasoning + acting agent without frameworks | Python |
