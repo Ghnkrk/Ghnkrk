@@ -24,7 +24,6 @@
 - 🤖 Passionate about **AI, Machine Learning, and LLMs**
 - 🔭 Currently exploring **Agentic AI systems and on-device ML**
 - 🌱 Learning more about **RAG pipelines, LLM fine-tuning, and inference optimization**
-- 💬 Ask me about anything AI/ML — always happy to discuss ideas
 - 📫 Reach me at: **guhan.karthik25@gmail.com** 
 
 ---
@@ -34,9 +33,9 @@
 | Project | Description | Tech |
 |---|---|---|
 | [AutoAgenticML](https://github.com/Ghnkrk/AutoAgenticML) | Autonomous multi-agentic ML pipeline | Python |
+| [TINYLLM](https://github.com/Ghnkrk/TINYLLM) | LLM coded and trained from scratch | Jupyter |
 | [Qsystem](https://github.com/Ghnkrk/Qsystem) | Leakage-Aware Time-Series Forecasting & Backtesting Pipeline | Python |
 | [NABH Gap Analysis Engine](https://github.com/Ghnkrk/mvpv2-NLI-semantic) | NAHB Gap analysis engine using NLI & semantic similarity | Python |
-| [TINYLLM](https://github.com/Ghnkrk/TINYLLM) | LLM coded and trained from scratch | Jupyter |
 | [ReAct-Agent](https://github.com/Ghnkrk/ReAct-Agent) | ReAct reasoning + acting agent without frameworks | Python |
 | [LocalRAG](https://github.com/Ghnkrk/LocalRAG) | Local retrieval-augmented generation | Python |
 | [mobile-inference](https://github.com/Ghnkrk/mobile-inference) | ML inference on mobile devices and their benchmark| Jupyter |
