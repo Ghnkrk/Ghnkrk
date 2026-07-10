@@ -30,13 +30,13 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [AutoAgenticML](https://github.com/Ghnkrk/AutoAgenticML) | Autonomous multi-agentic ML pipeline | Langgraph Pytorch |
+| [AutoAgenticML](https://github.com/Ghnkrk/AutoAgenticML) | Autonomous multi-agentic ML pipeline | Langgraph, Pytorch |
 | [TINYLLM](https://github.com/Ghnkrk/TINYLLM) | LLM coded and trained from scratch | Pytorch WandB |
-| [Qsystem](https://github.com/Ghnkrk/Qsystem) | Leakage-Aware Time-Series Forecasting & Backtesting Pipeline | Time-series ML Huggingface |
-| [NABH Gap Analysis Engine](https://github.com/Ghnkrk/mvpv2-NLI-semantic) | NAHB Gap analysis engine using NLI & semantic similarity | Huggingface NLI |
-| [ReAct-Agent](https://github.com/Ghnkrk/ReAct-Agent) | ReAct reasoning + acting agent without frameworks | Toolcalling Prompting|
-| [LocalRAG](https://github.com/Ghnkrk/LocalRAG) | Local retrieval-augmented generation | Llama.cpp Qdrant|
-| [mobile-inference](https://github.com/Ghnkrk/mobile-inference) | ML inference on mobile devices and their benchmark| Llama.cpp Huggingface Lora |
+| [Qsystem](https://github.com/Ghnkrk/Qsystem) | Leakage-Aware Time-Series Forecasting & Backtesting Pipeline | Time-series, Huggingface |
+| [NABH Gap Analysis Engine](https://github.com/Ghnkrk/mvpv2-NLI-semantic) | NAHB Gap analysis engine using NLI & semantic similarity | Huggingface, NLI |
+| [ReAct-Agent](https://github.com/Ghnkrk/ReAct-Agent) | ReAct reasoning + acting agent without frameworks | Toolcalling, Prompting|
+| [LocalRAG](https://github.com/Ghnkrk/LocalRAG) | Local retrieval-augmented generation | Llama.cpp, Qdrant|
+| [mobile-inference](https://github.com/Ghnkrk/mobile-inference) | ML inference on mobile devices and their benchmark| Llama.cpp, Huggingface, Lora |
 
 ---
 
