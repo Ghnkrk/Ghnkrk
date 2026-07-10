@@ -20,11 +20,9 @@
 
 ## 🧠 About Me
 
-- 🎓 Engineering student based in **Coimbatore, India**
-- 🤖 Passionate about **AI, Machine Learning, and LLMs**
-- 🔭 Currently exploring **Agentic AI systems and on-device ML**
-- 🌱 Learning more about **RAG pipelines, LLM fine-tuning, and inference optimization**
-- 📫 Reach me at: **guhan.karthik25@gmail.com** 
+-  Engineering student based in **Coimbatore, India**
+-  Learning in LLM systems, inference optimization, multi-agent workflows, and applied machine learning.
+-  Reach me at: **guhan.karthik25@gmail.com** 
 
 ---
 
